@@ -17,9 +17,9 @@ dirhammer.py is for testing purposes only and should only be used on websites th
 
 To run the dirhammer.py script, you will need the following:
 
- - Python 3.6 or later installed on your system The requests library for
- - Python (you can install it via pip: pip install requests) 
- - The termcolor library for Python (you can install it via pip: pip install termcolor)
+ - Python 3.6 or later.
+ - The requests library for Python (you can install it via pip: pip install requests).
+ - The termcolor library for Python (you can install it via pip: pip install termcolor).
 
 ## Screenshot
 ![screenshot](Screenshot%202023-04-01%20041705.png)
